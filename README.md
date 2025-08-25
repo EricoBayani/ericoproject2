@@ -12,6 +12,10 @@ I only cared to implement one effect which was a spinning torus that is both fla
 The gist of the novel work is in `BenDemoLibrary/poly.cpp` where I just perform a scanline render onto the grid of a text console rather than individual pixels of a frame buffer. 70% of the code was already written by Ben Stragnell, who generously released the source code for his previous demo competition entry; all I did was heavily modify it for the one effect. I even took the 3D model data for the Torus.
 
 
+
+https://github.com/user-attachments/assets/3ec02345-0df1-42db-aa36-157990e919d9
+
+
 ## Special Thanks
 
 * Ben Stragnell for his generosity of knowledge and either implicit approval or future forgiveness for nicking his code
