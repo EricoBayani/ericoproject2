@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/3ec02345-0df1-42db-aa36-157990e919d9
 
 * Ben Stragnell for his generosity of knowledge and either implicit approval or future forgiveness for nicking his code
 * Engin Cilasun for blowing my Computer Engineering degree out of the water with his amazing FPGA creations
-* Wade Brainerd for encouraging me to do make an entry (in my free time of course) to the competition and putting up with my questions
+* Wade Brainerd for encouraging me to make an entry (in my free time of course) to the competition and putting up with my questions
 * Aki Hogge for pointing me in the right direction for implementing ASCII effect
 * Jordan Diaz for lighting a fire under me with his even more amazing competition entry
 * Chris Achenbach for helping me with code and cope
