@@ -1,0 +1,1 @@
+cp ./ericoproject2clean.elf ~/programming/tinysys_stuff/tinysys/software/emulator/sdcard/ericoproject2clean.elf

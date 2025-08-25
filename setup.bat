@@ -1,0 +1,1 @@
+copy .\ericoproject2clean.elf C:\Programming_Stuff\tinysys\software\emulator\sdcard\ericoproject2clean.elf
